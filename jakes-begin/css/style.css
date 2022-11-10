@@ -145,4 +145,8 @@ footer a {
         /* turn off mobile settings */
         margin: 0;
     }
+    .nav-bkgd {
+        background: url("../media/images/jakes-meals.jpg") repeat-x;
+        height: 250px;
+    }
 }
